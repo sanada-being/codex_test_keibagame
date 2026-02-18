@@ -10,3 +10,7 @@ C# WinForms で作成した競馬ゲームです。仕様は `Spec.xlsx` を参�
 ```powershell
 dotnet run --project KeibaGame.App/KeibaGame.App.csproj
 ```
+
+## 重要
+- 重要: まず SPEC.md と PROJECT_CONTEXT.md を読んでから作業すること
+
